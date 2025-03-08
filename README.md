@@ -1,9 +1,25 @@
-# Vue 3 + Vite
 
+
+# Hi, I'm Fharhan Amrin Sitanggang 👋
+
+## Contact
+
+Feel free to reach out if you have any questions or just want to chat!
+
+- **Email:** fharhanamrin028@gmail.com
+- **LinkedIn:** [Fharhan Amrin]
+ *https://www.linkedin.com/in/fharhan-amrin-b68a06143/*
+- **YouTube:** [Tempat Belajar Bersama]
+  *https://www.youtube.com/@tempatbelajarbersama*
+
+Thank you for visiting my GitHub profile!
+
+# Vue 3 + Vite
 
 # Learn vue3 basic to advance
 
 ## Documentation language indonesia & inggris
+
 
 
 
@@ -201,7 +217,6 @@ if (isVisible) {
 ```
 
 ```
-
 <template>
   <div v-if="isVisible">
     <h1>Hello Vue 3</h1>
@@ -232,7 +247,6 @@ export default {
     }
   }
 }
-
 ```
 
 
